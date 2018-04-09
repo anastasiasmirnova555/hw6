@@ -23,5 +23,6 @@
 На основе данных из BNC выяснилось, что самыми частотными прилагательными, употребляемыми с сущетсвительным "question" являются слова "difficult", "important", "fundamental".
 ### Пункт №2
 ![2](https://github.com/anastasiasmirnova555/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(27).png?raw=true)
-### Пункт №3
-![3](https://github.com/anastasiasmirnova555/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(28).png?raw=true)
+
+По данным из BNC выяснилось, что с такими дополнениями как "goodbye", "word", "spokesman" глагол tell не используется, а с глаголом say не употребляются слова "tale", "lie", "jury", "conference", "storey". С остальными же словами на картинке и слово tell, и слово say употребляются.
+
